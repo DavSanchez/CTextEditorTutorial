@@ -3,8 +3,8 @@
 ## What's this?
 I'm following a tutorial to [build my own text editor](https://viewsourcecode.org/snaptoken/kilo/ "Build Your Own Text Editor") so I can learn a bit more of C.
 
-## Current stage
-1. [ ] Setup
+## Completed chapters
+1. [X] Setup
 2. [ ] Entering raw mode
 3. [ ] Raw input and output
 4. [ ] A text viewer
