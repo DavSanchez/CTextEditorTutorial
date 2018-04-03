@@ -1,7 +1,7 @@
 # DavSanchez's C Text Editor
 
 ## What's this?
-I'm following a tutorial to [build my own text editor](https://viewsourcecode.org/snaptoken/kilo/ "Build Your Own Text Editor") so I can learn a bit more of C.
+I'm following a tutorial to [build my own text editor](https://viewsourcecode.org/snaptoken/kilo/ "Build Your Own Text Editor") so I can learn a bit more of C. Let's see how it goes!
 
 ## Completed chapters
 1. [X] Setup
