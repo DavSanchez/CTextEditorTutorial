@@ -6,7 +6,7 @@ I'm following a tutorial to [build my own text editor](https://viewsourcecode.or
 ## Completed chapters
 1. [X] Setup
 2. [X] Entering raw mode
-3. [ ] Raw input and output
+3. [X] Raw input and output
 4. [ ] A text viewer
 5. [ ] A text editor
 6. [ ] Search
